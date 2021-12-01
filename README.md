@@ -13,5 +13,9 @@ Repository to collect the solutions for Advent Of Code for Valtech employees. Us
 ### Name: Tomas 🔥
 #### Language: C#10 (exotic :))
 Day 1: https://dotnetfiddle.net/OYyhcY  
-Day `<Y>`: `<LINK_TO_REPOSITORY_Y>`  
-etc...
+
+---
+### Name: Johan Burell
+#### Language: Rust
+Day 1, Part 1: https://github.com/jburell/AdventOfCode21_Day1/tree/part_1  
+Day 1, Part 2: https://github.com/jburell/AdventOfCode21_Day1/tree/part_2
