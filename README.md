@@ -10,8 +10,8 @@ Repository to collect the solutions for Advent Of Code for Valtech employees. Us
 * Once a week we gather and discuss the solutions and look at code!
 
 ## Entries
-### Name: `<NAME>`
-#### Language: `<LANGAGE_FOR_SOLUTONS>`
-Day `<X>`: `<LINK_TO_REPOSITORY_X>`  
+### Name: Tomas 🔥
+#### Language: C#10 (exotic :))
+Day 1: https://dotnetfiddle.net/OYyhcY  
 Day `<Y>`: `<LINK_TO_REPOSITORY_Y>`  
 etc...
