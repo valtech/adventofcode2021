@@ -15,3 +15,7 @@ Repository to collect the solutions for Advent Of Code for Valtech employees. Us
 Day 1: https://dotnetfiddle.net/OYyhcY  
 Day `<Y>`: `<LINK_TO_REPOSITORY_Y>`  
 etc...
+
+### Name: David
+#### Language: Rust 😬
+Day 1: https://github.com/DavidAEriksson/aoc2021
