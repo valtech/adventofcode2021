@@ -17,8 +17,7 @@ Day 1: https://dotnetfiddle.net/OYyhcY
 ---
 ### Name: David
 #### Language: Rust 😬
-Day 1: https://github.com/DavidAEriksson/aoc2021
-=======
+Day 1: https://github.com/DavidAEriksson/aoc2021  
 
 ---
 ### Name: Johan Burell
