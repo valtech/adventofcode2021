@@ -21,9 +21,9 @@ Day 1: https://github.com/DavidAEriksson/aoc2021
 
 ---
 ### Name: Johan Burell
-#### Language: Rust
-Day 1, Part 1: https://github.com/jburell/AdventOfCode21_Day1/tree/part_1
-Day 1, Part 2: https://github.com/jburell/AdventOfCode21_Day1/tree/part_2
+#### Language: Rust  
+Day 1, Part 1: https://github.com/jburell/AdventOfCode21_Day1/tree/part_1  
+Day 1, Part 2: https://github.com/jburell/AdventOfCode21_Day1/tree/part_2  
 
 ---
 ### Name: David Bragmark
