@@ -37,3 +37,17 @@ Day 2: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day
 ### Name: Caroline Borg
 #### Language: Scala
 Day 1: https://github.com/Cawibo/aoc2021/tree/main/1-sonar_sweep
+
+---
+### Name: Hannes Simonsson
+#### Language: Python, C#
+Day 1:
+- Python: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_1/python
+- C#: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_1/cs  
+
+Day 2:
+- Python:  
+https://github.com/hannesSimonsson/AoC-2021/tree/main/day_2/python
+- C#:  
+https://github.com/hannesSimonsson/AoC-2021/tree/main/day_2/cs 
+
