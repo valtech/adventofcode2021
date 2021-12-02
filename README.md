@@ -12,7 +12,7 @@ Repository to collect the solutions for Advent Of Code for Valtech employees. Us
 ## Entries
 ### Name: Tomas 🔥
 #### Language: C#10 (exotic :))
-Day 1: https://dotnetfiddle.net/OYyhcY
+Day 1: https://dotnetfiddle.net/OYyhcY  
 Day 2: https://dotnetfiddle.net/sKXaGM
 
 ---
