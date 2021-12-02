@@ -28,6 +28,6 @@ Day 1, Part 2: https://github.com/jburell/AdventOfCode21_Day1/tree/part_2
 ---
 ### Name: David Bragmark
 #### Language: F#
-https://github.com/davidbragmark/aoc
-Day 1: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day01.fs
-Day 2: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day02.fs
+https://github.com/davidbragmark/aoc  
+Day 1: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day01.fs  
+Day 2: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day02.fs  
