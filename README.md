@@ -48,3 +48,11 @@ https://github.com/twincliff/adventofcode2021
 Day 1: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day1.py
 Day 2: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day2.py
 Day 3: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day3.py
+
+---
+### Name: Robin Abrahamsson
+https://github.com/rq-abrahamsson/aoc
+#### Language: F#
+* Day 1: https://github.com/rq-abrahamsson/aoc/tree/master/2021-1-fsharp
+#### Language: Prolog
+* Day 1: https://github.com/rq-abrahamsson/aoc/blob/master/2021-1-prolog
