@@ -13,7 +13,8 @@ Repository to collect the solutions for Advent Of Code for Valtech employees. Us
 ### Name: Tomas 🔥
 #### Language: C#10 (exotic :))
 Day 1: https://dotnetfiddle.net/OYyhcY  
-Day 2: https://dotnetfiddle.net/sKXaGM
+Day 2: https://dotnetfiddle.net/sKXaGM  
+Day 3: https://dotnetfiddle.net/nEi4qy
 
 ---
 ### Name: David
@@ -25,6 +26,8 @@ Day 1: https://github.com/DavidAEriksson/aoc2021
 #### Language: Rust  
 Day 1, Part 1: https://github.com/jburell/AdventOfCode21_Day1/tree/part_1  
 Day 1, Part 2: https://github.com/jburell/AdventOfCode21_Day1/tree/part_2  
+Day 2, Part 1: https://github.com/jburell/aoc21_day2/tree/part_1  
+Day 2, Part 2: https://github.com/jburell/aoc21_day2/tree/part_2  
 
 ---
 ### Name: David Bragmark
@@ -36,7 +39,25 @@ Day 2: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day
 ---
 ### Name: Caroline Borg
 #### Language: Scala
-Day 1: https://github.com/Cawibo/aoc2021/tree/main/1-sonar_sweep
+Day 1: https://github.com/Cawibo/aoc2021/tree/main/1-sonar_sweep  
+Day 2: https://github.com/Cawibo/aoc2021/tree/main/2-dive  
+Day 3: (unfinished) https://github.com/Cawibo/aoc2021/tree/main/3-binary_diagnostics  
+
+---
+### Name : Thomas
+#### Language: Python
+https://github.com/twincliff/adventofcode2021
+Day 1: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day1.py
+Day 2: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day2.py
+Day 3: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day3.py
+
+---
+### Name: Robin Abrahamsson
+https://github.com/rq-abrahamsson/aoc
+#### Language: F#
+* Day 1: https://github.com/rq-abrahamsson/aoc/tree/master/2021-1-fsharp
+#### Language: Prolog
+* Day 1: https://github.com/rq-abrahamsson/aoc/blob/master/2021-1-prolog
 
 ---
 ### Name: Hannes Simonsson
@@ -44,10 +65,8 @@ Day 1: https://github.com/Cawibo/aoc2021/tree/main/1-sonar_sweep
 Day 1:
 - Python: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_1/python
 - C#: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_1/cs  
-
 Day 2:
 - Python:  
 https://github.com/hannesSimonsson/AoC-2021/tree/main/day_2/python
 - C#:  
 https://github.com/hannesSimonsson/AoC-2021/tree/main/day_2/cs 
-
