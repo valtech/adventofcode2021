@@ -58,3 +58,15 @@ https://github.com/rq-abrahamsson/aoc
 * Day 1: https://github.com/rq-abrahamsson/aoc/tree/master/2021-1-fsharp
 #### Language: Prolog
 * Day 1: https://github.com/rq-abrahamsson/aoc/blob/master/2021-1-prolog
+
+---
+### Name: Hannes Simonsson
+#### Language: Python, C#
+Day 1:
+- Python: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_1/python
+- C#: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_1/cs  
+Day 2:
+- Python:  
+https://github.com/hannesSimonsson/AoC-2021/tree/main/day_2/python
+- C#:  
+https://github.com/hannesSimonsson/AoC-2021/tree/main/day_2/cs 
