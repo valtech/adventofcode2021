@@ -40,3 +40,10 @@ Day 2: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day
 #### Language: Scala
 Day 1: https://github.com/Cawibo/aoc2021/tree/main/1-sonar_sweep  
 Day 2: https://github.com/Cawibo/aoc2021/tree/main/2-dive 
+
+### Name : Thomas
+#### Language: Python
+https://github.com/twincliff/adventofcode2021
+Day 1: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day1.py
+Day 2: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day2.py
+Day 3: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day3.py
