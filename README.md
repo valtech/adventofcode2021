@@ -40,10 +40,11 @@ Day 2: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day
 
 ---
 ### Name: Caroline Borg
-#### Language: Scala
-Day 1: https://github.com/Cawibo/aoc2021/tree/main/1-sonar_sweep  
-Day 2: https://github.com/Cawibo/aoc2021/tree/main/2-dive  
-Day 3: (unfinished) https://github.com/Cawibo/aoc2021/tree/main/3-binary_diagnostics  
+#### Language: (S)cala, (P)ython
+Day 1: (S) https://github.com/Cawibo/aoc2021/tree/main/1-sonar_sweep  
+Day 2: (S) https://github.com/Cawibo/aoc2021/tree/main/2-dive  
+Day 3: (S, P) https://github.com/Cawibo/aoc2021/tree/main/3-binary_diagnostics  
+Day 4: (P) https://github.com/Cawibo/aoc2021/tree/main/4-giant_squid  
 
 ---
 ### Name : Thomas
