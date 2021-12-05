@@ -15,7 +15,8 @@ Repository to collect the solutions for Advent Of Code for Valtech employees. Us
 Day 1: https://dotnetfiddle.net/OYyhcY  
 Day 2: https://dotnetfiddle.net/sKXaGM  
 Day 3: https://dotnetfiddle.net/nEi4qy  
-Day 4: https://dotnetfiddle.net/u5zWGk
+Day 4: https://dotnetfiddle.net/u5zWGk  
+Day 5: https://dotnetfiddle.net/JbUPwX
 
 ---
 ### Name: David
