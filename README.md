@@ -47,7 +47,9 @@ Day 1: (S) https://github.com/Cawibo/aoc2021/tree/main/1-sonar_sweep
 Day 2: (S) https://github.com/Cawibo/aoc2021/tree/main/2-dive  
 Day 3: (S, P) https://github.com/Cawibo/aoc2021/tree/main/3-binary_diagnostics  
 Day 4: (P) https://github.com/Cawibo/aoc2021/tree/main/4-giant_squid  
-Day 5: (P) https://github.com/Cawibo/aoc2021/tree/main/5-hydrothermal_venture
+Day 5: (P) https://github.com/Cawibo/aoc2021/tree/main/5-hydrothermal_venture  
+Day 6: (P) https://github.com/Cawibo/aoc2021/tree/main/6-lanternfish  
+
 
 ---
 ### Name : Thomas
