@@ -18,6 +18,7 @@ Day 3: https://dotnetfiddle.net/nEi4qy
 Day 4: https://dotnetfiddle.net/u5zWGk  
 Day 5: https://dotnetfiddle.net/JbUPwX  
 Day 6: https://dotnetfiddle.net/NHlZT2  
+
 ---
 ### Name: David
 #### Language: Rust 😬
