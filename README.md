@@ -67,6 +67,8 @@ https://github.com/rq-abrahamsson/aoc
 * Day 1: https://github.com/rq-abrahamsson/aoc/tree/master/2021-1-fsharp
 #### Language: Prolog
 * Day 1: https://github.com/rq-abrahamsson/aoc/blob/master/2021-1-prolog
+* Day 2: https://github.com/rq-abrahamsson/aoc/tree/master/2021-2-prolog
+* Day 3: https://github.com/rq-abrahamsson/aoc/tree/master/2021-3-prolog
 
 ---
 ### Name: Hannes Simonsson
