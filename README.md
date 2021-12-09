@@ -76,31 +76,31 @@ https://github.com/rq-abrahamsson/aoc
 #### Language: Python
 Day 1:
 - Part 1: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_1/python/solution_1.py
-- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_1/python/solution_1.py
+- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_1/python/solution_2.py
 
 Day 2:
 - Part 1: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_2/python/solution_1.py
-- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_2/python/solution_1.py
+- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_2/python/solution_2.py
 
 Day 3:
 - Part 1: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_3/python/solution_1.py
-- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_3/python/solution_1.py
+- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_3/python/solution_2.py
 
 Day 4:
 - Part 1: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_4/python/solution_1.py
-- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_4/python/solution_1.py
+- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_4/python/solution_2.py
 
 Day 5:
 - Part 1: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_5/python/solution_1.py
-- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_5/python/solution_1.py
+- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_5/python/solution_2.py
 
 Day 6:
 - Part 1: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_6/python/solution_1.py
-- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_6/python/solution_1.py
+- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_6/python/solution_2.py
 
 Day 7:
 - Part 1: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_7/python/solution_1.py
-- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_7/python/solution_1.py
+- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_7/python/solution_2.py
 
 Day 8:
 - Part 1: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_8/python/solution_1.py
