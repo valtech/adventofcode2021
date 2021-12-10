@@ -46,13 +46,16 @@ Day 2: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day
 ---
 ### Name: Caroline Borg
 #### Language: (S)cala, (P)ython
-Day 1: (S) https://github.com/cawibo/aoc2021/tree/main/1-sonar_sweep  
-Day 2: (S) https://github.com/cawibo/aoc2021/tree/main/2-dive  
-Day 3: (S, P) https://github.com/cawibo/aoc2021/tree/main/3-binary_diagnostics  
-Day 4: (P) https://github.com/cawibo/aoc2021/tree/main/4-giant_squid  
-Day 5: (P) https://github.com/cawibo/aoc2021/tree/main/5-hydrothermal_venture  
-Day 6: (P) https://github.com/cawibo/aoc2021/tree/main/6-lanternfish  
-Day 7: (P) https://github.com/cawibo/aoc2021/blob/main/7-treachery_of_whales/main.py  
+Day 1:  (S) https://github.com/cawibo/aoc2021/tree/main/1-sonar_sweep  
+Day 2:  (S) https://github.com/cawibo/aoc2021/tree/main/2-dive  
+Day 3:  (S, P) https://github.com/cawibo/aoc2021/tree/main/3-binary_diagnostics  
+Day 4:  (P) https://github.com/cawibo/aoc2021/tree/main/4-giant_squid  
+Day 5:  (P) https://github.com/cawibo/aoc2021/tree/main/5-hydrothermal_venture  
+Day 6:  (P) https://github.com/cawibo/aoc2021/tree/main/6-lanternfish  
+Day 7:  (P) https://github.com/cawibo/aoc2021/blob/main/7-treachery_of_whales/main.py  
+Day 8:  (P) https://github.com/cawibo/aoc2021/tree/main/8-seven_segment_search  
+Day 9:  (P) https://github.com/cawibo/aoc2021/tree/main/9-smoke_basin  
+Day 10: (P) https://github.com/cawibo/aoc2021/tree/main/10-syntax_scoring  
 
 ---
 ### Name : Thomas
