@@ -70,7 +70,9 @@ https://github.com/rq-abrahamsson/aoc
 #### Language: Prolog
 * Day 1: https://github.com/rq-abrahamsson/aoc/blob/master/2021-1-prolog
 * Day 2: https://github.com/rq-abrahamsson/aoc/tree/master/2021-2-prolog
-* Day 3: https://github.com/rq-abrahamsson/aoc/tree/master/2021-3-prolog
+* Day 3 (Endast del 1): https://github.com/rq-abrahamsson/aoc/tree/master/2021-3-prolog
+* Day 6 (Ej klar): https://github.com/rq-abrahamsson/aoc/tree/master/2021-3-prolog
+* Day 8 (Endast del 1): https://github.com/rq-abrahamsson/aoc/tree/master/2021-3-prolog
 
 ---
 ### Name: Hannes Simonsson
