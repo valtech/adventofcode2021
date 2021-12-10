@@ -112,3 +112,4 @@ Day 7:
 
 Day 8:
 - Part 1: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_8/python/solution_1.py
+- Part 2: https://github.com/hannesSimonsson/AoC-2021/tree/main/day_8/python/solution_2.py
