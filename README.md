@@ -34,6 +34,7 @@ Day 1, Part 2: https://github.com/jburell/AdventOfCode21_Day1/tree/part_2
 Day 2, Part 1: https://github.com/jburell/aoc21_day2/tree/part_1  
 Day 2, Part 2: https://github.com/jburell/aoc21_day2/tree/part_2  
 Day 3, Part 1: https://github.com/jburell/aoc21_day3/tree/part_1  
+Day 4, Part 1: https://github.com/jburell/aoc21_day4/tree/part_1
 
 ---
 ### Name: David Bragmark
