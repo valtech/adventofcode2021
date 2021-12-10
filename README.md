@@ -64,6 +64,8 @@ https://github.com/twincliff/adventofcode2021
 Day 1: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day1.py  
 Day 2: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day2.py  
 Day 3: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day3.py  
+Day 5 part 1: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day5.py  
+Day 8: https://github.com/twincliff/adventofcode2021/blob/main/Solutions/Day8.py  
 
 ---
 ### Name: Robin Abrahamsson
