@@ -57,6 +57,7 @@ Day 7:  (P) https://github.com/cawibo/aoc2021/blob/main/7-treachery_of_whales/ma
 Day 8:  (P) https://github.com/cawibo/aoc2021/tree/main/8-seven_segment_search  
 Day 9:  (P) https://github.com/cawibo/aoc2021/tree/main/9-smoke_basin  
 Day 10: (P) https://github.com/cawibo/aoc2021/tree/main/10-syntax_scoring  
+Day 11: (P) https://github.com/cawibo/aoc2021/blob/main/11-dumbo_octopus/main.py
 
 ---
 ### Name : Thomas
