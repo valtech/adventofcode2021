@@ -43,6 +43,8 @@ Day 4, Part 1: https://github.com/jburell/aoc21_day4/tree/part_1
 https://github.com/davidbragmark/aoc  
 Day 1: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day01.fs  
 Day 2: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day02.fs  
+Day 3: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day03.fs  
+Day 4: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day04.fs  
 
 ---
 ### Name: Caroline Borg
