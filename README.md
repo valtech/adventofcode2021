@@ -66,7 +66,9 @@ Day 13: (P) https://github.com/cawibo/aoc2021/tree/main/13-transparent_origami
 Day 14: (P) https://github.com/cawibo/aoc2021/blob/main/14-extended_polymerization/main.py  
 Day 15: (P) https://github.com/cawibo/aoc2021/blob/main/15-chiton/main.py  
 Day 16: (P) https://github.com/cawibo/aoc2021/blob/main/16-packet_decoder/main.py  
-Day 17: (p) https://github.com/cawibo/aoc2021/blob/main/17-trick_shot/main.py  
+Day 17: (P) https://github.com/cawibo/aoc2021/blob/main/17-trick_shot/main.py  
+Day 18: (P) https://github.com/cawibo/aoc2021/blob/main/18-snailfish/main.py  
+Day 19: (P) https://github.com/cawibo/aoc2021/tree/main/19-beacon_scanner  
 
 
 ---
