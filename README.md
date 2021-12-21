@@ -46,6 +46,7 @@ Day 2: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day
 Day 3: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day03.fs  
 Day 4: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day04.fs  
 Day 5: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day05.fs  
+Day 6: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day06.fs  
 
 ---
 ### Name: Caroline Borg
