@@ -50,7 +50,7 @@ Day 6: https://github.com/davidbragmark/aoc/blob/master/2021/FSharp/Solution/Day
 
 ---
 ### Name: Caroline Borg
-#### Language: (S)cala, (P)ython
+#### Language: (S)cala, (P)ython, P(E)n and paper.
 Day 1:  (S) https://github.com/cawibo/aoc2021/tree/main/1-sonar_sweep  
 Day 2:  (S) https://github.com/cawibo/aoc2021/tree/main/2-dive  
 Day 3:  (S, P) https://github.com/cawibo/aoc2021/tree/main/3-binary_diagnostics  
@@ -70,6 +70,12 @@ Day 16: (P) https://github.com/cawibo/aoc2021/blob/main/16-packet_decoder/main.p
 Day 17: (P) https://github.com/cawibo/aoc2021/blob/main/17-trick_shot/main.py  
 Day 18: (P) https://github.com/cawibo/aoc2021/blob/main/18-snailfish/main.py  
 Day 19: (P) https://github.com/cawibo/aoc2021/tree/main/19-beacon_scanner  
+Day 20: (P) https://github.com/cawibo/aoc2021/tree/main/20-trench_map
+Day 21: (P) https://github.com/cawibo/aoc2021/tree/main/21-dirac_dice
+Day 22: (P) https://github.com/cawibo/aoc2021/tree/main/22-reactor_reboot
+Day 23: (P) https://github.com/cawibo/aoc2021/tree/main/23-amphipod
+Day 24: (E) https://github.com/cawibo/aoc2021/tree/main/24-arithmetic_logic_unit
+Day 25: (P) https://github.com/cawibo/aoc2021/tree/main/25-sea_cucumber
 
 
 ---
