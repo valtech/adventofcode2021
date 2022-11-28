@@ -70,12 +70,12 @@ Day 16: (P) https://github.com/cawibo/aoc2021/blob/main/16-packet_decoder/main.p
 Day 17: (P) https://github.com/cawibo/aoc2021/blob/main/17-trick_shot/main.py  
 Day 18: (P) https://github.com/cawibo/aoc2021/blob/main/18-snailfish/main.py  
 Day 19: (P) https://github.com/cawibo/aoc2021/tree/main/19-beacon_scanner  
-Day 20: (P) https://github.com/cawibo/aoc2021/tree/main/20-trench_map
-Day 21: (P) https://github.com/cawibo/aoc2021/tree/main/21-dirac_dice
-Day 22: (P) https://github.com/cawibo/aoc2021/tree/main/22-reactor_reboot
-Day 23: (P) https://github.com/cawibo/aoc2021/tree/main/23-amphipod
-Day 24: (E) https://github.com/cawibo/aoc2021/tree/main/24-arithmetic_logic_unit
-Day 25: (P) https://github.com/cawibo/aoc2021/tree/main/25-sea_cucumber
+Day 20: (P) https://github.com/cawibo/aoc2021/tree/main/20-trench_map  
+Day 21: (P) https://github.com/cawibo/aoc2021/tree/main/21-dirac_dice  
+Day 22: (P) https://github.com/cawibo/aoc2021/tree/main/22-reactor_reboot  
+Day 23: (P) https://github.com/cawibo/aoc2021/tree/main/23-amphipod  
+Day 24: (E) https://github.com/cawibo/aoc2021/tree/main/24-arithmetic_logic_unit  
+Day 25: (P) https://github.com/cawibo/aoc2021/tree/main/25-sea_cucumber  
 
 
 ---
